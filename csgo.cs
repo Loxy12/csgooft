@@ -152,4 +152,4 @@
 17:43:17 [INFO] Found netvar: m_flCustomAutoExposureMin => 0x9DC
 17:43:17 [INFO] Found netvar: m_flCustomAutoExposureMax => 0x9E0
 17:43:17 [INFO] Found netvar: m_nViewModelIndex => 0x29D0
-17:43:17 [INFO] Finished netvar scanning: 93/93 items successful
+
